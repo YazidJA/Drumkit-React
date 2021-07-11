@@ -1,0 +1,10 @@
+.drum-pad {
+    color: #5f939a;
+    font-size: 3rem;
+    text-shadow: 3px 0 #1b2021;
+    background-color: #d8ac9c;
+    margin: 1vh 3vw;
+    border: 10px solid #5f939a;
+    border-radius: 20px;
+  }
+  
